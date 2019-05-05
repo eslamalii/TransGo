@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TransGo</string>
+    <string name="Confirm">Confirm</string>
+
+    <string name="mail">
+        <font size="16">
+            E-mail address
+        </font>
+    </string>
+
+    <string name="password">
+        <font size="16">
+            Password
+        </font>
+    </string>
+
+</resources>

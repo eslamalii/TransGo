@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <color name="gray_black">#181d31</color>
+    <color name="purble">#c86dd7</color>
+    <color name="gray_purble">#38324e</color>
+
+    <!--191D32-->
+
+    <color name="login_from_details">#ffffff</color>
+    <color name="login_from_details_light">#1affffff</color>
+    <color name="login_from_details_medium">#66ffffff</color>
+
+    <!--Entry-->
+    <color name="EditText">#fff</color>
+
+</resources>
